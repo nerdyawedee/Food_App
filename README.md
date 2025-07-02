@@ -19,10 +19,6 @@ Follow these steps to run the app locally:
    ```bash
    git clone https://github.com/nerdyawedee/Food_App.git
 
-![Screenshot 2024-12-29 134520](https://github.com/user-attachments/assets/9cf5cb8d-2716-4942-b21c-1a085f62c950)
-
-![Screenshot 2024-12-29 133929](https://github.com/user-attachments/assets/60bf3050-ac20-4129-91e0-baa8355589b7)
-
 ![Screenshot 2024-12-29 134000](https://github.com/user-attachments/assets/8cb5e828-0ae4-4045-9681-6305dfbd9cc1)
 
 ![Screenshot 2024-12-29 134022](https://github.com/user-attachments/assets/6e09479d-d423-4886-85b2-58300870159b)
